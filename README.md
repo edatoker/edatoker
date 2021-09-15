@@ -2,7 +2,7 @@
 - 👀 I’m interested in algorithms for price forecasting
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on price forecasting tools
-- 📫 How to reach me eda.toker@gmail.com
+- 📫 How to reach me eda.toker@protonmail.com
 
 <!---
 edatoker/edatoker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
