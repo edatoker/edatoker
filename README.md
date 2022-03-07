@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edatoker
 - 👀 I’m interested in algorithms for price forecasting
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on price forecasting tools
 - 📫 How to reach me eda.toker@gmail.com
 
